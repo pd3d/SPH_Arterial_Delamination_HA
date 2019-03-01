@@ -16,5 +16,9 @@ Thank you!
 2. After Python has been installed, install the required modules by typing the following in a command prompt (make sure you are running command prompt as administrator)
 ```
 py -3 -m pip3 install --upgrade pip
-py -3 -m pip3 install 
+py -3 -m pip3 install numpy
+py -3 -m pip3 install matplotlib
+py -3 -m pip3 install mpi4py
+py -3 -m pip3 install sklearn
+
 ```
